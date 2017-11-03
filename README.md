@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 2nd, 2017
 
 ### Student Name:  
-(First and Last Name)
+Annette Jensen
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In assignment 6 we edited JavaScript code to create a photo gallery.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ajensensms.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this assignment we learned how to use a loop
+2. In this assignment we learned how to use a if/else statment
+3. In this assignment we learned how to use a if/else statment use JavaScript functions
