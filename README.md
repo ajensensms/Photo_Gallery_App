@@ -12,8 +12,6 @@ Annette Jensen
 ### Project Description:
 In assignment 6 we edited JavaScript code to create a photo gallery.
 
-### View Project:
-https://ajensensms.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. In this assignment we learned how to use a loop
